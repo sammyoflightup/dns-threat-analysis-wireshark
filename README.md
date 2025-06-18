@@ -137,12 +137,17 @@ Based on this DNS traffic simulation, the following steps are recommended for se
 
 Here is a sample capture:
 
-(![wireshark 1](https://github.com/user-attachments/assets/21827125-1aca-45d0-91e3-192911897f1f)
-![dns domain at  top](https://github.com/user-attachments/assets/82d4d194-21c0-4b50-8500-eaf67b2bcfad)
-![dns ==3](https://github.com/user-attachments/assets/17a8d520-dfbc-4b48-b37f-8fc20df7d59e)
-![wireshark 1](https://github.com/user-attachments/assets/a03c4ba6-c0c8-4cb6-9e76-20f112149b6d)
-![wifi capture](https://github.com/user-attachments/assets/15f3860c-f08d-404a-8507-0e69c8e14421)
-![top only](https://github.com/user-attachments/assets/8b9d6237-5522-4428-8444-cfb915fcc577)
-![follow UDP stream](https://github.com/user-attachments/assets/46ce6bfe-0071-422f-b89d-5b348d2660ea)
-![dns](https://github.com/user-attachments/assets/2818b634-6d12-496f-85b0-7904a60a5e17)
-![dns flag](https://github.com/user-attachments/assets/5d8c9e3e-143d-431e-8c92-5c9426945a2a)
+1. ![wireshark 1](https://github.com/user-attachments/assets/d4f961c7-a1f4-4c41-898c-8efc2ceec4f6)
+2. ![wifi capture](https://github.com/user-attachments/assets/8b1b884d-6170-42cc-8f91-31a2483e999b)
+3. ![dns](https://github.com/user-attachments/assets/bed64815-bc72-4169-90a2-f8d81d9df392)
+4. ![dns domain at  top](https://github.com/user-attachments/assets/e35f74c9-1c9a-4091-97e5-0aa5fe505d16)
+5. ![dns flag](https://github.com/user-attachments/assets/c52a11d6-297b-46c3-917c-079fdb71fd9c)
+6. ![dns ==3](https://github.com/user-attachments/assets/a45156fe-766e-4787-ac3a-89c815969323)
+7. ![follow UDP stream](https://github.com/user-attachments/assets/25fe6fcd-7001-4975-af02-abe7d12da66a)
+8. ![top only](https://github.com/user-attachments/assets/ddcc978c-3931-4748-a2ed-ac070295e759)
+
+
+
+
+
+
