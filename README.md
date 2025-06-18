@@ -133,7 +133,16 @@ Based on this DNS traffic simulation, the following steps are recommended for se
 ---
 
 ## 📁 Files Included
+# Cybersecurity DNS Threat Report
 
-- `dns_analysis.pcapng`: The full capture  
-- `dns_threat_report.md`: This report  
-- `README.md`: Project summary and setup  
+Here is a sample capture:
+
+(![wireshark 1](https://github.com/user-attachments/assets/21827125-1aca-45d0-91e3-192911897f1f)
+![dns domain at  top](https://github.com/user-attachments/assets/82d4d194-21c0-4b50-8500-eaf67b2bcfad)
+![dns ==3](https://github.com/user-attachments/assets/17a8d520-dfbc-4b48-b37f-8fc20df7d59e)
+![wireshark 1](https://github.com/user-attachments/assets/a03c4ba6-c0c8-4cb6-9e76-20f112149b6d)
+![wifi capture](https://github.com/user-attachments/assets/15f3860c-f08d-404a-8507-0e69c8e14421)
+![top only](https://github.com/user-attachments/assets/8b9d6237-5522-4428-8444-cfb915fcc577)
+![follow UDP stream](https://github.com/user-attachments/assets/46ce6bfe-0071-422f-b89d-5b348d2660ea)
+![dns](https://github.com/user-attachments/assets/2818b634-6d12-496f-85b0-7904a60a5e17)
+![dns flag](https://github.com/user-attachments/assets/5d8c9e3e-143d-431e-8c92-5c9426945a2a)
